@@ -1,0 +1,19 @@
+# Core Libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Handling Imbalanced Data
+imbalanced-learn
+
+# Jupyter Notebook Support
+jupyter
+notebook
